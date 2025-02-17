@@ -1,0 +1,7 @@
+C:\users\mbelzer\source\repos\az204\webapp\appdemo\bin\Release\net8.0\publish\appdemo1.0.exe
+C:\users\mbelzer\source\repos\az204\webapp\appdemo\bin\Release\net8.0\publish\appsettings.Development.json
+C:\users\mbelzer\source\repos\az204\webapp\appdemo\bin\Release\net8.0\publish\appsettings.json
+C:\users\mbelzer\source\repos\az204\webapp\appdemo\bin\Release\net8.0\publish\appdemo1.0.dll
+C:\users\mbelzer\source\repos\az204\webapp\appdemo\bin\Release\net8.0\publish\appdemo1.0.deps.json
+C:\users\mbelzer\source\repos\az204\webapp\appdemo\bin\Release\net8.0\publish\appdemo1.0.runtimeconfig.json
+C:\users\mbelzer\source\repos\az204\webapp\appdemo\bin\Release\net8.0\publish\appdemo1.0.pdb
